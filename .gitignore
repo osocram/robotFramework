@@ -128,3 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 dolphin
+app/logs/Sikuli_java_stderr_1668513933.2516916.txt
+logs
+Sikuli_java_stdout*.txt
+*.jar
+fatura
+/Sikuli_java_stderr_1668513921.0652814.txt
+login
